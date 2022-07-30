@@ -1,0 +1,33 @@
+body {
+    background: url('./plan-bg.png');
+  }
+  
+  h1 {
+    color: blue;
+   margin: auto;
+   position: relative;
+   align-content: center;
+   text-align: center;
+  }
+  div{
+    text-align: center;
+  }
+
+  
+  img {
+    width: 400px;
+  }
+  #thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: lightblue;
+    padding: 50px;
+    border: 2px solid black;
+   border-radius: 10px;
+  
+   position: flex;
+  }
+  #spanId{
+    font-size: 18px;
+    margin: 50px;
+  }
