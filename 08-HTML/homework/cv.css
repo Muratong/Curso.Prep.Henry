@@ -1,0 +1,63 @@
+body{
+    background-attachment: fixed;
+    background-color: beige;
+}
+section{
+    
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+div{
+    font-size: 16px;
+}
+#cvId{
+   justify-content: center;
+   text-decoration: underline;
+}
+.daPersonal{
+    display: auto;
+    margin-top: 40px;
+    left: 100px;
+    right: 300px;
+    position: relative;
+    justify-content: center;
+    padding: 10px;
+}
+
+p{
+    color: royalblue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+img{
+    width: 100px;
+  border: 3px solid gray;
+  border-radius: 25px;
+}
+.image{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    left: 300px;
+    right: 10px;
+    top: 10px;
+}
+#motivo{
+    position: relative;
+    left: 60px;
+    margin: 30px;
+}
+.motivo{
+    position: relative;
+    margin-left: 40px;
+    margin-bottom: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    word-spacing: ;
+}
